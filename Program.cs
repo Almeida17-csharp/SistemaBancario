@@ -161,7 +161,6 @@ namespace Banco
             Console.Write("Digite o nome do novo usuário: ");
             novaConta.Nome = Console.ReadLine();
 
-            Console.Write("\nDigite o cpf desse usuário: ");
             novaConta.Cpf = LerCpfValido();
 
             Console.Write("\nDigite a senha desse usuário: ");
