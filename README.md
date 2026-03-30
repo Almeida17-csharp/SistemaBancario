@@ -4,9 +4,11 @@ Um sistema bancário via console desenvolvido em C# para fins de estudo e práti
 
 ## 🚀 Funcionalidades
 
-* Cadastro de novos usuários
+* Cadastro de novos usuários ( com Número de conta, CPF, Nome e Senha)
 * Gerenciamento de contas bancárias
-* [Adicione aqui outras funções, como depósito, saque, etc.]
+* Depósito
+* Saque
+* Transferência
 
 ## 💻 Tecnologias Utilizadas
 
